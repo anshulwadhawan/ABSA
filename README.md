@@ -6,8 +6,7 @@ Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Se
 Link to paper : https://arxiv.org/abs/1903.09588
 
 # Description
-Utilized a BERT model for the task of Aspect Based Sentiment Analysis. Referred approach and code from the SOTA paper referred above and made appropriate changes:
-Please refer to the prepareJsonLines function in evaluation.py file for inspecting the following changes :
+Utilized a BERT model for the task of Aspect Based Sentiment Analysis. Referred approach and code from the SOTA paper referred above and made appropriate changes. Please refer to the prepareJsonLines function in evaluation.py file for inspecting the following changes :
 1. Extracted trueLabels and predictedLabels(along with scores) from results.
 2. Created JSONs with appropriate keys and values (as per the requirements), and appended to a JSONLines file.
 3. Maintained counts of correctly labelled instances in terms of aspects and their respective sentiments.
