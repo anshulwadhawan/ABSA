@@ -17,4 +17,4 @@ Utilized a BERT model for the task of Aspect Based Sentiment Analysis. Referred 
 1. Try evaluating the model multiple times during an epoch.
 2. Try identifying bad initializations early and stopping them.
 3. Try training BERT with the same hyperparameters as in the original setup, but with different random seeds.
-4. Try other sophisticated model architectures like ALBERT, RoBERTa, DistilBERT, XLNet after literature survey.
+4. Try other sophisticated model architectures like ALBERT, RoBERTa, DistilBERT or XLNet after literature survey.
