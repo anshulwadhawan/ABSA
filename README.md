@@ -1,9 +1,7 @@
 # ABSA
 
 The SOTA paper and code referred for the task is : 
-Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence;
-By Chi Sun, Luyao Huang and Xipeng Qiu; 
-2019
+Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence (2019) by Chi Sun, Luyao Huang and Xipeng Qiu
 
 Link to paper : https://arxiv.org/abs/1903.09588
 
